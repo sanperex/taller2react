@@ -40,17 +40,44 @@ La aplicación incluye funcionalidades esenciales como listado de productos, det
 
 Para comenzar con el proyecto, sigue estos pasos:
 
-1. **Requisitos Previos**: Instala Node.js (versión LTS) y npm (Node Package Manager) en tu equipo.  
-2. **Clonar el Repositorio**: Ejecuta `git clone https://github.com/your-username/your-repo-name.git` en tu terminal.  
-3. **Instalar Dependencias**: Navega al directorio del proyecto y ejecuta `npm install` para instalar las dependencias necesarias.  
-4. **Iniciar el Servidor de Desarrollo**: Ejecuta `npm run dev` para iniciar el servidor de desarrollo de Vite.  
+### 1️⃣ Requisitos Previos
+- Instalar Node.js (versión LTS)
+- npm (incluido con Node.js)
+
+### 2️⃣ Clonar el Repositorio
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+```
+
+### 3️⃣ Instalar Dependencias
+```bash
+npm install
+```
+
+### 4️⃣ Iniciar el Servidor de Desarrollo
+```bash
+npm run dev
+```
+
+---
 
 ## 💻 Uso
 
-1. **Iniciar la Aplicación**: Ejecuta `npm run dev` para iniciar el servidor de desarrollo.  
-2. **Acceder a la Aplicación**: Abre tu navegador web y dirígete a `http://localhost:3000` para acceder a la aplicación.  
+1. Ejecuta:
+```bash
+npm run dev
+```
+
+2. Abre tu navegador en:
+```
+http://localhost:3000
+```
+
+---
 
 ## 📂 Estructura del Proyecto
+
+```
 .
 ├── index.html
 ├── package.json
@@ -72,37 +99,42 @@ Para comenzar con el proyecto, sigue estos pasos:
     └── mercado-libre-logo.webp
 ```
 
+---
+
 ## 📸 Capturas de Pantalla
 
-_Aquí puedes agregar imágenes o gifs que muestren el funcionamiento de la aplicación._
+_Aquí puedes agregar imágenes o gifs del proyecto._
 
 ---
 
 ## 🤝 Contribuciones
 
-¡Las contribuciones son bienvenidas!  
-Si deseas contribuir al proyecto:
+¡Las contribuciones son bienvenidas!
 
-1. Haz un **fork** del repositorio.  
-2. Realiza tus cambios.  
-3. Envía un **pull request** con tus mejoras.  
+1. Haz un fork del repositorio  
+2. Crea una nueva rama  
+3. Realiza tus cambios  
+4. Envía un pull request  
 
 ---
 
 ## 📝 Licencia
 
-Este proyecto está licenciado bajo la **Licencia MIT**.
+Este proyecto está licenciado bajo la Licencia MIT.
 
 ---
 
 ## 📬 Contacto
 
-Para cualquier pregunta o inquietud, no dudes en contactarnos en:  
-[your-email@example.com](mailto:your-email@example.com)
+Para cualquier pregunta o sugerencia:
+your-email@example.com
 
 ---
 
 ## 💖 Mensaje Final
 
 ¡Esperamos que este proyecto te sea útil!  
-Si tienes comentarios o sugerencias, no dudes en hacérnoslos saber.
+Si tienes comentarios o sugerencias, no dudes en compartirlos.
+
+
+
