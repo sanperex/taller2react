@@ -126,8 +126,8 @@ Este proyecto está licenciado bajo la Licencia MIT.
 
 ## 📬 Contacto
 
-Nombre: Santiago Perez Calle
-email: sp177061@gmail.com
+Nombre: Santiago Perez Calle.
+
 
 ---
 
